@@ -11,5 +11,7 @@ Traditional deep learning methods, while promising, face limitations in extracti
 ![image](https://github.com/user-attachments/assets/b7634191-8ce4-4f9a-a985-bda5b41e2929)
 
 Dataset:
+<br/>
 https://nihcc.app.box.com/v/ChestXray-NIHCC
+<br/>
 https://www.kaggle.com/datasets/nih-chest-xrays/data
